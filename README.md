@@ -1,6 +1,15 @@
-# xlsx-style
+
+# xlsx-style-fix-module
+
+## :ambulance: fixed module not find
+
+```
+Error in ./~/xlsx-style/dist/cpexcel.js
+Module not found: ./cptable
+```
 
 Parser and writer for various spreadsheet formats.  Pure-JS cleanroom implementation from official specifications and related documents.
+
 
 # About this fork
 **NOTE:** [This project](https://github.com/SheetJS/js-xlsx/tree/beta) is a fork of the original (and awesome) [SheetJS/xlsx](https://github.com/SheetJS/js-xlsx) project.
@@ -38,7 +47,7 @@ Source: <http://git.io/xlsx>
 With [npm](https://www.npmjs.org/package/xlsx-style):
 
 ```sh
-npm install xlsx-style --save
+npm install xlsx-style-fix-module --save
 ```
 
 In the browser:

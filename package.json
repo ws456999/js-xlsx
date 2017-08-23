@@ -1,7 +1,7 @@
 {
-	"name": "xlsx",
+	"name": "xlsx-style-fix-module",
 	"version": "0.8.20",
-	"author": "sheetjs",
+	"author": "ws456999",
 	"description": "Excel (XLSB/XLSX/XLSM/XLS/XML) and ODS spreadsheet parser and writer (extended to enable read/write of cell formats with xlsx files)",
 	"keywords": [ "excel", "xls", "xlsx", "xlsb", "xlsm", "ods", "office", "spreadsheet" ],
 	"bin": {
